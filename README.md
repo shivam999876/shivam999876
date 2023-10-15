@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam999876&" alt="shivam999876" /></p>
 <img align="right" alt="holopin" src="https://holopin.me/shivam999876">
-<img align="center" alt=arcade" src="https://github.com/shivam999876/shivam999876/blob/main/Arcade.png">
+<img align="center" alt=arcade" src="shivam999876/blob/main/Arcade.png">
