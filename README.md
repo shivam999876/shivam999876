@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@shivam999876" target="blank"><img src="https://img.shields.io/twitter/follow/@shivam999876?logo=twitter&style=for-the-badge" alt="@shivam999876" /></a> </p>
 
-- 🌱 I’m currently learning **node js, Express, MongoDB**
+- 🌱 I’m currently learning **Node.js, Express, MongoDB**
 
 - 💬 Ask me about **MERN**
 
