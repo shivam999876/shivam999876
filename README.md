@@ -1,4 +1,14 @@
-<h1 align="center">Hi 👋, I'm SHIVAM KUMAR</h1>
+### Hello world, I'm Shivam 👋 
+
+-----
+
+<p align="center">
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
+</p>
+
+-----
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -12,6 +22,14 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **shivam999876@gmail.com**
+
+<a href="https://www.linkedin.com/in/shivamkumar11/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.instagram.com/shivam771999/"><img src="https://img.shields.io/badge/-@michael201199-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="mailto:shivam999876@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://leetcode.com/Shivam7799/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
+
+-----  
+
 
 - ⚡ Fun fact : **I an Funny**
 
