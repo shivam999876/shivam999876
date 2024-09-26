@@ -6,7 +6,7 @@
 ### Reach out to me 👓
 <a href="https://www.linkedin.com/in/shivamkumar11/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
 <a href="https://github.com/shivam999876"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="48px" height="48px"></a>
-<a href="https://x.com/shivam999876"><img src="https://ibb.co/SdvKgcS" width="48px" height="48px"></a>
+<a href="https://x.com/shivam999876"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="48px" height="48px"></a>
 <a href="https://www.instagram.com/shivam771999/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="48px" height="48px"></a> 
 
 
