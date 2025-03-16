@@ -2,7 +2,6 @@
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=shivam999876&theme=react" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam999876&langs_count=10&theme=react"/>
 
-![GitHub Snake Contribution Graph](https://raw.githubusercontent.com/shivam999876/output/github-snake.svg)
 
 
 
