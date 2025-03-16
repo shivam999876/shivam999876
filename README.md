@@ -5,8 +5,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivam999876/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivam999876/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shivam999876/output/github-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/shivam999876/output/github-snake.svg" />
 </picture>
+
 
 ### Reach out to me 👓
 <a href="https://www.linkedin.com/in/shivamkumar11/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
