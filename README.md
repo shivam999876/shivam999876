@@ -2,11 +2,8 @@
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=shivam999876&theme=react" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam999876&langs_count=10&theme=react"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivam999876/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivam999876/output/github-snake.svg" />
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/shivam999876/output/github-snake.svg" />
-</picture>
+![GitHub Snake Contribution Graph](https://raw.githubusercontent.com/shivam999876/output/github-snake.svg)
+
 
 
 ### Reach out to me 👓
