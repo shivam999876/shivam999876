@@ -1,9 +1,4 @@
 ## I'm Shivam Kumar 🌚
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=shivam999876&theme=react" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam999876&langs_count=10&theme=react"/>
-
-
-
 
 ### Reach out to me 👓
 <a href="https://www.linkedin.com/in/shivamkumar11/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
