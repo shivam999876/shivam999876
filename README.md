@@ -1,41 +1,36 @@
 <div align="center">
-  <a href="https://github.com/account">
-    
-  </a>
-
-  <br/><br/>
-
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shivam+Kumar!;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Shivam+Kumar!;" alt="Typing SVG" />
 
   <p><strong>Full-stack engineer & tech writer building scalable web apps and integrating Generative AI & ML systems.</strong></p>
 </div>
 
 ---
 
-### 🚀 &nbsp;About Me
+### 🚀 About Me
 
-- 🌱 I’m currently diving deep into **AI & ML Architecture**
-- 📚 Read my technical deep dives on **[Medium](https://medium.com/@shivam999876)**
-- 💬 Open an issue or start a discussion at **[GitHub Issues](https://github.com/shivam999876/shivam999876/issues)**
-- ⚡ **Fun fact:**
+- 👨‍💻 **I am Shivam Kumar**, passionate about software engineering and emerging technologies.
+- 🌱 I’m currently diving deep into **AI & ML Architecture**.
+- 📚 Read my technical deep dives on **[Medium](https://medium.com/@shivam999876)**.
+- 💬 Open an issue or start a discussion at **[GitHub Issues](https://github.com/shivam999876/shivam999876/issues)**.
+- ⚡ **Fun fact:** I love turning caffeine into clean code and scalable architectures.
 
-<p align="left">
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Tech Quote" />
-</p>
+</div>
 
 ---
 
-### 💻 &nbsp;Tech Stack & Tools
+### 💻 Tech Stack & Tools
 
-<p align="left">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,express,postgres,mongodb,prisma,git,tailwind,docker,aws,pytorch,tensorflow,redis,linux" alt="My Skills" />
   </a>
-</p>
+</div>
 
 ---
 
-### 📊 &nbsp;GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
   <table border="0">
@@ -60,9 +55,9 @@
 
 ---
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 Connect with Me
 
-<p align="center">
+<div align="center">
   <a href="https://x.com/shivam999876" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="32" width="40" />
   </a>
@@ -74,7 +69,7 @@
   <a href="https://leetcode.com/u/Shivam7799/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="32" width="40" />
   </a>
-</p>
+</div>
 
 <br/>
 
