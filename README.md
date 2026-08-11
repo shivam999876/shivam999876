@@ -33,16 +33,24 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivam999876&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Shivam's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam999876&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <!-- GitHub Activity Graph (High uptime, SVG-based) -->
+  <a href="https://github.com/shivam999876">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam999876&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+  </a>
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=shivam999876&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <!-- Compact Dynamic Badges (Shields.io never hits rate limit blocks) -->
+  <p>
+    <img src="https://img.shields.io/github/followers/shivam999876?label=Followers&style=for-the-badge&color=7aa2f7&labelColor=1a1b26" alt="Followers" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Status-Active%20Builder-7dcfff?style=for-the-badge&labelColor=1a1b26" alt="Status" />
+    &nbsp;
+    <img src="https://img.shields.io/github/repo-size/shivam999876/shivam999876?label=Profile%20Size&style=for-the-badge&color=bb9af7&labelColor=1a1b26" alt="Repo Size" />
+  </p>
 
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam999876&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%" />
+  <!-- GitHub Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam999876&theme=tokyonight" width="95%" alt="Profile Summary" />
 </div>
 
 ---
