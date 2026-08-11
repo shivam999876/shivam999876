@@ -33,24 +33,16 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=shivam999876&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam999876&hide=html,scss,css&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam999876&theme=radical" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivam999876&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Shivam's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam999876&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 
   <br/><br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=shivam999876&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=6" alt="Trophies" />
+  <img src="https://streak-stats.demolab.com?user=shivam999876&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam999876&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%" />
 </div>
 
 ---
