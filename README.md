@@ -1,10 +1,83 @@
-## I'm Shivam Kumar 🌚
+<div align="center">
+  <a href="https://github.com/shivam999876">
+    <img width="100%" alt="hero" src="https://github.com/user-attachments/assets/42f9dff1-8683-436e-bccc-161eee19bb2d" />
+  </a>
 
-### Reach out to me 👓
-<a href="https://www.linkedin.com/in/shivamkumar11/"><img src="https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png" width="48px" height="48px"></a>
-<a href="https://github.com/shivam999876"><img src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" width="48px" height="48px"></a>
-<a href="https://x.com/shivam999876"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="48px" height="48px"></a>
-<a href="https://www.instagram.com/shivam771999/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="48px" height="48px"></a> 
+  <br/><br/>
 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shivam+Kumar!;" alt="Typing SVG" />
 
-![d](https://visitor-badge.laobi.icu/badge?page_id=shivam999876)
+  <p><strong>Full-stack engineer & tech writer building scalable web apps and integrating Generative AI & ML systems.</strong></p>
+</div>
+
+---
+
+### 🚀 &nbsp;About Me
+
+- 🌱 I’m currently diving deep into **AI & ML Architecture**
+- 📚 Read my technical deep dives on **[Medium](https://medium.com/@shivam999876)**
+- 💬 Open an issue or start a discussion at **[GitHub Issues](https://github.com/shivam999876/shivam999876/issues)**
+- ⚡ **Fun fact:**
+
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Tech Quote" />
+</p>
+
+---
+
+### 💻 &nbsp;Tech Stack & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,express,postgres,mongodb,prisma,git,tailwind,docker,aws,pytorch,tensorflow,redis,linux" alt="My Skills" />
+  </a>
+</p>
+
+---
+
+### 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=shivam999876&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam999876&hide=html,scss,css&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam999876&theme=radical" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=shivam999876&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=6" alt="Trophies" />
+</div>
+
+---
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+  <a href="https://x.com/shivam999876" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="32" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shivamkumar11/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Shivam7799/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="32" width="40" />
+  </a>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Thanks+for+visiting!+✌️;Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)" alt="Footer Typing SVG" />
+</div>
