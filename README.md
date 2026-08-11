@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/shivam999876">
+  <a href="https://github.com/account">
     <img width="100%" alt="hero" src="https://github.com/user-attachments/assets/42f9dff1-8683-436e-bccc-161eee19bb2d" />
   </a>
 
